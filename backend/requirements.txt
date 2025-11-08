@@ -1,0 +1,11 @@
+# backend/requirements.txt
+flask
+flask_cors
+tensorflow
+scikit-learn
+pandas
+numpy
+python-dotenv
+requests
+google-generativeai
+dateparser
