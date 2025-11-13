@@ -3954,5 +3954,9 @@ Date,Region,Max_Temp,Min_Temp,Rainfall,Price
 2025-11-03,Chikkamagaluru,26.3,17.5,0,36000
 2025-11-04,Chikkamagaluru,27.2,17.4,0.1,36000
 2025-11-05,Chikkamagaluru,26.3,16.4,0,36000
-2025-11-06,Chikkamagaluru,26.3,14.9,0,36000
-2025-11-07,Chikkamagaluru,25.5,15.3,0.7,36000
+2025-11-06,Chikkamagaluru,26.3,14.9,0,33700
+2025-11-07,Chikkamagaluru,25.5,15.3,0.7,35000
+2025-11-08,Chikkamagaluru,24.6,16,0,35000
+2025-11-09,Chikkamagaluru,24.8,15.8,0,35000
+2025-11-10,Chikkamagaluru,25.4,15.5,0,35000
+2025-11-11,Chikkamagaluru,26,16.4,0,35000

@@ -33,7 +33,7 @@ interface ChartData { date: string; price: number; } // For PriceChart
 interface PerformanceData { date: string; actual: number; predicted: number; } // For PerformanceChart
 interface KpiData { price: number; date: string; }
 
-const API_URL = "http://127.0.0.1:5000";
+const API_URL = "https://pepper-price-project.onrender.com";
 
 // Helper to format price
 const formatPrice = (price?: number) => {
